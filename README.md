@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working at PT.Unemployment<br>🌱 I’m currently learning being the best at doing Nothing<br>⚡ Fun fact i like sleeping
+# 💫 Hewwo I'm Ebi 💫
+🔭 I’m currently working at PT.Unemployment<br>🌱 I’m currently learning being the best at doing Nothing<br>⚡ Fun fact i like sleeping<br>💩 Self-taught bad at Me
 
 
 # 💻 Tech Stack:
