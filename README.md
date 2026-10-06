@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on PT.Unemployment<br>🌱 I’m currently learning being the best at doing Nothing<br>⚡ Fun fact i like sleeping
+🔭 I’m currently working at PT.Unemployment<br>🌱 I’m currently learning being the best at doing Nothing<br>⚡ Fun fact i like sleeping
 
 
 # 💻 Tech Stack:
