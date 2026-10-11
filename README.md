@@ -10,3 +10,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ebi0w0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+![snake gif](https://github.com/ebi0w0/ebi0w0/blob/output/github-snake-dark.svg)
